@@ -1,0 +1,4 @@
+Sistema de Frenos:
+  -Bandas
+  -Pastillas
+  -Bomba de Freno
